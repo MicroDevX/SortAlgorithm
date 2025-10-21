@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -Wl,--dependency-file=CMakeFiles/SortAlgorithm.dir/link.d CMakeFiles/SortAlgorithm.dir/main.c.o CMakeFiles/SortAlgorithm.dir/MergeSort/mergeSort.c.o -o SortAlgorithm
