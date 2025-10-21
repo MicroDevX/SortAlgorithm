@@ -1,3 +1,0 @@
-/home/hisham/Projects/SortAlgorithm/out/build/Demo/CMakeFiles/SortAlgorithm.dir
-/home/hisham/Projects/SortAlgorithm/out/build/Demo/CMakeFiles/edit_cache.dir
-/home/hisham/Projects/SortAlgorithm/out/build/Demo/CMakeFiles/rebuild_cache.dir
